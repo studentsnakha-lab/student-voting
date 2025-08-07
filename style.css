@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+}
+
+#candidates button {
+  display: block;
+  margin: 5px 0;
+}
